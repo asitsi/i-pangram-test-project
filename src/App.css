@@ -1,0 +1,6 @@
+.loading {
+  display: grid;
+  place-items: center;
+  color: cadetblue;
+  height: 100vh;
+}
